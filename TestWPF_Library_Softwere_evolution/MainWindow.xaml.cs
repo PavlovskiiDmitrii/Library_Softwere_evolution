@@ -26,6 +26,7 @@ namespace TestWPF_Library_Softwere_evolution
         public MainWindow()
         {
             InitializeComponent();
+
         }
         string path = null;
 
