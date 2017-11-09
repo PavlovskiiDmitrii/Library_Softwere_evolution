@@ -63,8 +63,5 @@
     <Compile Include="TXTPresenter.cs" />
     <Compile Include="YAMLFile.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

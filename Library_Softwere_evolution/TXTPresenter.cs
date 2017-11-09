@@ -11,7 +11,7 @@ namespace Library_Softwere_evolution
     {
         public string GetHeader(Customer _customer)
         {
-            string headerresult = "Счет для " + _customer.getName() + "\n" + "\t" + "Название" + "\t" + "Цена" + "\t" + "Кол-во" + "Стоимость" + "\t" + "Скидка" + "\t" + "Сумма" + "\t" + "Бонус" + "\n";
+            string headerresult = "Счет для " + _customer.getName() + "\n" + "\t" + "Название__" + "\t" + "\t" + "Кол-во" + "__Стоимость" + "\t" + "Скидка" + "\t" + "Сумма" + "\t" + "Бонус" + "\n";
             return headerresult;
         }
         public string GetItemString(Item item, double discount, int bonus, double thisAmount)

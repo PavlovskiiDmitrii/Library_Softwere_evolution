@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_Softwere_evolution"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole_Library_softwere_evolution", "TestConsole_Library_softwere_evolution\TestConsole_Library_softwere_evolution.csproj", "{88827C18-4E67-430A-8007-E2FF8E7A9F29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_Softwere_evolution_Test", "Library_Softwere_evolution_Test\Library_Softwere_evolution_Test.csproj", "{E143880D-6156-499B-9DD1-812B9737AC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWPF_Library_Softwere_evolution", "TestWPF_Library_Softwere_evolution\TestWPF_Library_Softwere_evolution.csproj", "{F8C82C14-DC9E-4AFB-8854-44375A2A9349}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{88827C18-4E67-430A-8007-E2FF8E7A9F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88827C18-4E67-430A-8007-E2FF8E7A9F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88827C18-4E67-430A-8007-E2FF8E7A9F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E143880D-6156-499B-9DD1-812B9737AC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E143880D-6156-499B-9DD1-812B9737AC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E143880D-6156-499B-9DD1-812B9737AC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E143880D-6156-499B-9DD1-812B9737AC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C82C14-DC9E-4AFB-8854-44375A2A9349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C82C14-DC9E-4AFB-8854-44375A2A9349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C82C14-DC9E-4AFB-8854-44375A2A9349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C82C14-DC9E-4AFB-8854-44375A2A9349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

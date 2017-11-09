@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("ProgramConsole")]
+[assembly: AssemblyTitle("Library_Softwere_evolution_Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ProgramConsole")]
+[assembly: AssemblyProduct("Library_Softwere_evolution_Test")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("381ea625-24e1-44aa-ae89-b57bff0fa2a7")]
+[assembly: Guid("e143880d-6156-499b-9dd1-812b9737ac44")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
