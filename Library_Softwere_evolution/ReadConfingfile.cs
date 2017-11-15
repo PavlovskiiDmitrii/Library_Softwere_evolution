@@ -26,6 +26,11 @@ namespace Library_Softwere_evolution
             ValueView = ConfigurationManager.AppSettings.Get("view");
             Setconfing();
         }
+        public ReadConfingfile(string valueview)
+        {
+            ValueView = valueview;
+            Setconfing();
+        }
 
 
         public void Setconfing()
